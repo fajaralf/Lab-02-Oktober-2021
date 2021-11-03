@@ -1,0 +1,5 @@
+Siberian Husky, 9, 4200000
+Maltese, 7, 3800000
+Bichon Frise, 10, 25000000
+Red Tiny Poodle, 11, 6500000
+Shitzu, 8, 6850000
