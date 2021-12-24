@@ -240,15 +240,5 @@ public MyResults ValidationForm(String username, String password) {
 	
 	return m;
 }
-	
-public boolean isNumber(String input) {
-	
-	try {
-		Double x = Double.parseDouble(input);
-		return true;
-	} catch (Exception e) {
-		return false;
-	}
-	
-}	
+		
 }
